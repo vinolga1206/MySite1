@@ -63,6 +63,11 @@ nav ul li {
 
 }
 
+li.selected {
+    background-color: #c8b99c;
+}
+
+
 /* стили ссылок */
 
 
